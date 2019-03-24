@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">BioWear</string>
+    <string name="user">User</string>
+    <string name="greeting">%s</string>
+    <string name="steps">Steps</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="temperature">Temperature</string>
+    <string name="format_steps">/%s steps</string>
+    <string name="completed">COMPLETED</string>
+    <string name="licenses">Licenses</string>
+    <string name="link">Website: https://www.github.com/Aayushjn/BioWear</string>
+    <string name="license_title_icons">Icons</string>
+    <string name="license_author_icons">Freepik from Flaticon</string>
+    <string name="license_content_icons">Creative Commons BY 3.0 [CC 3.0]</string>
+    <string name="format_heart_rate">%d BPM</string>
+    <string name="name">Name</string>
+    <string name="create_new_profile">Create new profile</string>
+    <string name="age">Age</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="gender">Gender</string>
+    <string name="birthday">Birthday</string>
+    <string name="done">Done</string>
+    <string name="emergency_contact">Emergency Contact</string>
+    <string name="license_title_glide">Glide</string>
+    <string name="license_author_glide">Sam Judd</string>
+    <string name="license_content_glide">BSD, part MIT and Apache 2.0</string>
+    <string name="license_title_circular_progress_bar">Circular Progress Bar</string>
+    <string name="license_author_circular_progress_bar">Cardinal Solutions Group</string>
+    <string name="license_content_circular_progress_bar">MIT license</string>
+    <string name="license_title_anychart">AnyChart</string>
+    <string name="license_author_anychart">AnyChart</string>
+    <string name="license_content_anychart">All rights reserved by AnyChart</string>
+    <string name="license_title_gson">Gson</string>
+    <string name="license_author_gson">Google</string>
+    <string name="license_content_gson">Apache 2.0 License</string>
+    <string name="license_title_timber">Timber</string>
+    <string name="license_author_timber">Jake Wharton</string>
+    <string name="license_content_timber">Apache License, Version 2.0</string>
+    <string name="license_title_material_date_time_picker">MaterialDateTimePicker</string>
+    <string name="license_author_material_date_time_picker">wdullaer</string>
+    <string name="license_content_material_date_time_picker">Apache License, Version 2.0</string>
+    <string name="license_title_calligraphy">Calligraphy</string>
+    <string name="license_author_calligraphy">InflationX (Christopher Jenkins)</string>
+    <string name="license_content_calligraphy">Apache License, Version 2.0</string>
+    <string name="kg">kg</string>
+    <string name="cm">cm</string>
+    <string name="profile">Profile</string>
+    <string name="info_hypothermia">Hypothermia is setting in!</string>
+    <string name="info_fever">You are burning up!</string>
+    <string name="info_normal">Normal body temperature</string>
+    <string name="bmi">Body Mass Index</string>
+    <string name="update">Update</string>
+
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>

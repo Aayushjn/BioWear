@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@android:id/text1"
+        android:textColor="@color/colorSecondaryText"
+        android:textSize="16sp"
+        android:gravity="start|center"
+        android:paddingStart="8dp"
+        android:paddingEnd="8dp"
+        android:ellipsize="end"
+        android:layout_height="50dp"
+        android:layout_width="match_parent"
+        style="?android:attr/spinnerDropDownItemStyle"
+        fontPath="fonts/roboto/Roboto-Regular.ttf"
+        tools:ignore="MissingPrefix"/>

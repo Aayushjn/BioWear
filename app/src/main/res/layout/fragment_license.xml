@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp">
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:orientation="vertical">
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/license_title_icons"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/license_author_icons"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="15sp"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/license_content_icons"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="15sp"
+                    android:textStyle="italic"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@android:color/darker_gray"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/license_title_glide"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/license_author_glide"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="15sp"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/license_content_glide"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="15sp"
+                    android:textStyle="italic"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@android:color/darker_gray"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/license_title_circular_progress_bar"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/license_author_circular_progress_bar"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="15sp"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/license_content_circular_progress_bar"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="15sp"
+                    android:textStyle="italic"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@android:color/darker_gray"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/license_title_anychart"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/license_author_anychart"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="15sp"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/license_content_anychart"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="15sp"
+                    android:textStyle="italic"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@android:color/darker_gray"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/license_title_gson"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/license_author_gson"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="15sp"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/license_content_gson"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="15sp"
+                    android:textStyle="italic"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@android:color/darker_gray"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/license_title_timber"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/license_author_timber"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="15sp"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/license_content_timber"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="15sp"
+                    android:textStyle="italic"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@android:color/darker_gray"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/license_title_material_date_time_picker"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/license_author_material_date_time_picker"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="15sp"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/license_content_material_date_time_picker"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="15sp"
+                    android:textStyle="italic"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@android:color/darker_gray"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/license_title_calligraphy"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/license_author_calligraphy"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="15sp"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/license_content_calligraphy"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="15sp"
+                    android:textStyle="italic"
+                    fontPath="fonts/roboto/Roboto-Regular.ttf"
+                    tools:ignore="MissingPrefix"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
